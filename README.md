@@ -13,3 +13,7 @@ Core Objectives:
 Dimensional Optimization: Right-size the public sector based on demographic thresholds and operational efficiency indices, reducing redundant administrative roles through the deployment of IT&C infrastructure and AI automation.
 
 Labor Market Dynamism: Transition surplus public personnel to the productive private sector, alleviating structural labor shortages and expanding the primary tax base.
+
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
